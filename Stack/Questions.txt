@@ -1,0 +1,19 @@
+Q1 - NGR
+Q2 - NSR
+Q3 - NSL
+Q4 - NGL
+Q5 - NGL index
+Q6 - NSL index
+Q7 - NSR index
+Q8 - NGR index
+Q9 - Stock Span
+Q10 - Max Area of Histogram
+Q11 - Max Area Rectangle of Binary Matrix 
+Q12 - Rain Water Trapping
+Q13 - Minimum Element in stack in extra space
+Q14 - Minimum Element in stack in O(1) space
+Q15 - Implement a Min stack
+Q16 - Implement a stack using heap
+Q17 - The Celebrity Problem
+Q18 - Longest Valid Parenthesis
+Q19 - Iterative TOH

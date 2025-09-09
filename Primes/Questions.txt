@@ -1,0 +1,7 @@
+Q0 Check Prime
+Q1 Factors
+Q2 a!=b!=c!=1 && a*b*c= n
+Q3 Sieve through the primes
+Q4 Get the number of prime Factors
+Q5 Prime Factorization
+Q6 Segmented Sieve

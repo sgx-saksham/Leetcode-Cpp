@@ -1,0 +1,10 @@
+Q0 - Heaps
+Q1 - Kth Smallest Element in array
+Q2 - Kth largest Elements in array
+Q3 - Sort a K sorted Array
+Q4 - K closest Numbers
+Q5 - Top K frequent Numbers
+Q6 - Frequency Sort
+Q7 - K closest Points to Origin
+Q8 - Connect Ropes to minimize the cost 
+Q9 - Sum of Elements between k1 smallest and k2 smallest numbers

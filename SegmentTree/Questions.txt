@@ -1,0 +1,2 @@
+Q0 - template for Segment Tree
+Q1 - Segment Tree with Lazy propagation 

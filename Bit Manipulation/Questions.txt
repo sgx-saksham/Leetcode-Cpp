@@ -1,0 +1,15 @@
+XOR 
+Q1 - check in an array which no. occurs only once among those elements which are twice
+Q2 - swap two Numbers
+Q3 - Give the XOR value from 1 to N
+Q4 - Give the XOR value from L to R
+AND
+Q5 - Check if ith Bit is Set or Not for a given number
+Q6 - Check whether number is a power of 2 or not; 
+Q7 - Set The ith bit of a number
+Q8 - Clear The ith bit of a number
+Q9 - Clear The last set bit of a number
+Q10 - Count the set bits of a number
+Q11 - Get the Two numbers appearing once from the array in which all the other elements appears twice
+Q12 - Get all The Subsets of a given array
+Q13 - Design Tree Set

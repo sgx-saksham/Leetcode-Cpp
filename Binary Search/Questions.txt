@@ -1,0 +1,18 @@
+Q1 - Binary Search
+Q2 - Order agnostic Binary Search
+Q3 - 1st and Last occurrence of  an element in a sorted array
+Q4 - count of element in a sorted array
+Q5 - No. of times the array is rotated
+Q6 - find an element in rotated sorted array
+Q7 - Searching in nearly sorted array
+Q8 - Floor / ceil of an element
+Q9 - Next Letter Alphabetically
+Q10 - Find the position of an element in infinite sorted array
+Q11 - Index of the first 1 in the infinite binary sorted array
+Q12 - Minimum difference element in a sorted array
+Q13 - Bitonic array max element
+Q14 - Search in a Bitonic array
+Q15 - Search in  row wise / column wise sorted matrix 
+Q16 - find the element in a sorted array that appears twice
+Q17 - Allocate Minimum number of pages 
+Q18 - Peak Element

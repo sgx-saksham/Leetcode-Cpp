@@ -1,0 +1,18 @@
+Q0 - Fibonaccii
+Q1 - Print Names
+Q2 - Print Subsequences
+Q3 - Combination Sum 1
+Q4 - Subsequences which have sum = k
+Q5 - Only 1 Subsequences which have sum = k
+Q6 - Number of Subsequences which have sum = k
+Q7 - Combination Sum 2
+Q8 - Subset Sum 1
+Q9 - Subsets 2
+Q10 - Generate Subsets 
+Q11 - Generate Permutations
+Q12 - N queens
+Q13 - N queens 2
+Q14 - Sudoku Solver
+Q15 - Palindrome Partitioning
+Q16 - Kth Permutations Sequence
+Q17 - Rat in a Maze
